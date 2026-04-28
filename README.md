@@ -1,5 +1,8 @@
 # Go Guard
 
+> [!CAUTION]
+> go-guard is now part of the [go-foundation](https://github.com/mirkobrombin/go-foundation) framework. The v1.0.0 release mirrors go-guard v0.1.0, but future versions may introduce breaking changes. Please migrate your project.
+
 **Go Guard** is a strictly declarative Attribute-Based Access Control (ABAC) library for Go.
 It couples security policies directly with your data models using struct tags, ensuring that authorization logic travels with the data it protects.
 
